@@ -1,0 +1,12 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/kahra/Computer/Computer.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/Users/kahra/Computer/Computer.srcs/sim_1/new/BC_tb.v,1710422924,verilog,,,,BC_tb,,,,,,,,
+C:/Users/kahra/Computer/Computer.srcs/sim_1/new/ram_tb.v,1710424902,verilog,,,,ram_tb,,,,,,,,
+C:/Users/kahra/Computer/Computer.srcs/sim_1/new/sr_latch_tb.v,1710415397,verilog,,,,sr_latch_tb,,,,,,,,
+C:/Users/kahra/Computer/Computer.srcs/sources_1/new/BC.v,1710423221,verilog,,C:/Users/kahra/Computer/Computer.srcs/sources_1/new/Decoder_4x16.v,,BC,,,,,,,,
+C:/Users/kahra/Computer/Computer.srcs/sources_1/new/Decoder_4x16.v,1710267142,verilog,,C:/Users/kahra/Computer/Computer.srcs/sources_1/new/RAM.v,,Decoder_4x16,,,,,,,,
+C:/Users/kahra/Computer/Computer.srcs/sources_1/new/RAM.v,1710424584,verilog,,C:/Users/kahra/Computer/Computer.srcs/sources_1/new/SR_Latch.v,,RAM,,,,,,,,
+C:/Users/kahra/Computer/Computer.srcs/sources_1/new/SR_Latch.v,1710415465,verilog,,C:/Users/kahra/Computer/Computer.srcs/sim_1/new/ram_tb.v,,SR_Latch,,,,,,,,
